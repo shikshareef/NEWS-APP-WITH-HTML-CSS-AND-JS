@@ -1,0 +1,10 @@
+@media screen and (max-width: 720px){
+    .main-nav{
+        flex-direction: column;
+    }
+    .cards-container{
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+}
